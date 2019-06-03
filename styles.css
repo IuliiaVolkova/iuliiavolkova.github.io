@@ -1,0 +1,27 @@
+body {
+        background-color: #ffd7e8;
+        font-family: Comic Sans MS;
+
+      }
+      hr {
+        
+        
+        border-style: none;
+        border-top-style: dotted;
+        border-color: #f2c0ff;
+        border-width: 20px;
+        width: 50%;
+
+      }
+
+      img {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 5px;
+        width: 230px;
+        height: 298px;
+      }
+
+      text {
+        color: #866ec7;
+      }
